@@ -1,2 +1,2 @@
 # symmetrical-goggles
-This is a test
+This is a sample
